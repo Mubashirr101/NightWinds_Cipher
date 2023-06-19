@@ -1,5 +1,5 @@
 # NightWinds_Cipher
-NightWinds is an open-source Python application for text encoding and decoding using a custom cipher algorithm. The application provides a user-friendly graphical interface for encoding and decoding plain text messages using a keyword-based encryption method. NightWinds allows users to specify a keyword, enter the plain text message, and instantly generate the corresponding encoded text. 
+NightWinds is a Python application for text encryption and decryption using a custom cipher algorithm. The application provides a user-friendly graphical interface for encoding and decoding plain text messages using a keyword-based encryption method. NightWinds allows users to specify a keyword, enter the plain text message, and instantly generate the corresponding encoded text. 
 
 Key Features:
 - Encode plain text messages using a keyword-based encryption algorithm
