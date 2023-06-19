@@ -8,4 +8,4 @@ Key Features:
 - User-friendly graphical interface with customizable themes
 - Lightweight and easy to use
 
-NightWinds is a great tool for those interested in learning about basic encryption techniques or for individuals who need a simple and convenient way to encode and decode text messages. \
+NightWinds is a great tool for those interested in learning about basic encryption techniques or for individuals who need a simple and convenient way to encode and decode text messages.
