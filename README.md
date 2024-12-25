@@ -9,3 +9,6 @@ Key Features:
 - Lightweight and easy to use
 
 NightWinds is a great tool for those interested in learning about basic encryption techniques or for individuals who need a simple and convenient way to encode and decode text messages.
+
+
+**NOTE:** NightWinds was built to serve as a prototype for [SecureCipher](https://github.com/Mubashirr101/SecureCipher)
